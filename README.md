@@ -1,4 +1,4 @@
-![VSCode-Dark](https://github.com/mlguels/mlguels/assets/104812366/6de1859d-3f65-4a68-92cd-1d972f71781c)### Hi there 👋
+### Hi there 👋
 
 🚀 I'm a passionate developer on an exciting coding journey. <br />
 🔭 I’m currently working on Career development @JSMastery <br />
